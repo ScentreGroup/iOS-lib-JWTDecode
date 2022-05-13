@@ -409,9 +409,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5F0068F81B3B46240048928E /* Build configuration list for PBXNativeTarget "JWTDecode-iOS" */;
 			buildPhases = (
+				5F0068DF1B3B46240048928E /* Headers */,
 				5F0068DD1B3B46240048928E /* Sources */,
 				5F0068DE1B3B46240048928E /* Frameworks */,
-				5F0068DF1B3B46240048928E /* Headers */,
 				5F0068E01B3B46240048928E /* Resources */,
 				5BFB989F1F7A9EC4001FE50D /* SwiftLint */,
 			);
